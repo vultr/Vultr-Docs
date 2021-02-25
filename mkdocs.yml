@@ -7,6 +7,7 @@ site_author: Vultr.com
 copyright: '&copy; <a href="https://www.vultr.com">Vultr.com</a>'
 nav:
     - 'About Vultr Docs': 'index.md'
+    - 'Requests for Articles' : 'rfa.md'
     - 'License': license.md
     - 'About Vultr': 'https://www.vultr.com'
     - 'Deploy a Cloud Server': 'https://my.vultr.com'
@@ -19,7 +20,7 @@ theme:
   favicon: assets/images/signet__on-dark-blue-bg.png
   logo: assets/images/signet__on-dark.png
   icon:
-    repo: fontawesome/brands/github  
+    repo: fontawesome/brands/github
   palette:
     scheme: preference
   features:
@@ -30,7 +31,7 @@ theme:
     - navigation.expand
     - toc:
       permalink: true
-      toc_depth: 3    
+      toc_depth: 3
     - toc.integrate
     - search.suggest
     - search.highlight
